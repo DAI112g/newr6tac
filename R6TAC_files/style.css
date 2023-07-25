@@ -830,7 +830,6 @@ input[name="tab_item"] {
 
 /*タブ切り替えの中身のスタイル*/
 .tab_content {
-  display: none;
   padding: 0;
   margin: 0;
 }
