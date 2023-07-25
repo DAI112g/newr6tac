@@ -836,32 +836,34 @@ input[name="tab_item"] {
 }
 
 /*選択されているタブのコンテンツのみを表示*/
-#bank2f:checked ~ #bank2f{display: block;}
-#bank1f:checked ~ #bank1f{display: block;}
-#bankb1f:checked ~ #bankb1f{display: block;}
-#border2f:checked ~ #border2f{display: block;}
-#border1f:checked ~ #border1f{display: block;}
-#chalet2f:checked ~ #chalet2f{display: block;}
-#chalet1f:checked ~ #chalet1f{display: block;}
-#chaletb1f:checked ~ #chaletb1f{display: block;}
-#club2f:checked ~ #club2f{display: block;}
-#club1f:checked ~ #club1f{display: block;}
-#clubb1f:checked ~ #clubb1f{display: block;}
-#consulate2f:checked ~ #consulate2f{display: block;}
-#consulate1f:checked ~ #consulate1f{display: block;}
-#consulateb1f:checked ~ #consulateb1f{display: block;}
-#kafe3f:checked ~ #kafe3f{display: block;}
-#kafe2f:checked ~ #kafe2f{display: block;}
-#kafe1f:checked ~ #kafe1f{display: block;}
-#nighthavenlabs2f:checked ~ #nighthavenlabs2f{display: block;}
-#nighthavenlabs1f:checked ~ #nighthavenlabs1f{display: block;}
-#nighthavenlabsb1f:checked ~ #nighthavenlabsb1f{display: block;}
-#oregon3f:checked ~ #oregon3f{display: block;}
-#oregon2f:checked ~ #oregon2f{display: block;}
-#oregon1f:checked ~ #oregon1f{display: block;}
-#oregonb1f:checked ~ #oregonb1f{display: block;}
-#skyscraper2f:checked ~ #skyscraper2f{display: block;}
-#skyscraper1f:checked ~ #skyscraper1f{display: block;}
+#bank2f:checked ~ #bank2f,
+#bank1f:checked ~ #bank1f,
+#bankb1f:checked ~ #bankb1f,
+#border2f:checked ~ #border2f,
+#border1f:checked ~ #border1f,
+#chalet2f:checked ~ #chalet2f,
+#chalet1f:checked ~ #chalet1f,
+#chaletb1f:checked ~ #chaletb1f,
+#club2f:checked ~ #club2f,
+#club1f:checked ~ #club1f,
+#clubb1f:checked ~ #clubb1f,
+#consulate2f:checked ~ #consulate2f,
+#consulate1f:checked ~ #consulate1f,
+#consulateb1f:checked ~ #consulateb1f,
+#kafe3f:checked ~ #kafe3f,
+#kafe2f:checked ~ #kafe2f,
+#kafe1f:checked ~ #kafe1f,
+#nighthavenlabs2f:checked ~ #nighthavenlabs2f,
+#nighthavenlabs1f:checked ~ #nighthavenlabs1f,
+#nighthavenlabsb1f:checked ~ #nighthavenlabsb1f,
+#oregon3f:checked ~ #oregon3f,
+#oregon2f:checked ~ #oregon2f,
+#oregon1f:checked ~ #oregon1f,
+#oregonb1f:checked ~ #oregonb1f,
+#skyscraper2f:checked ~ #skyscraper2f,
+#skyscraper1f:checked ~ #skyscraper1f,{
+  display: block;
+}
 
 /* お絵描きエリアのcss */
 
