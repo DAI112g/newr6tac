@@ -830,6 +830,7 @@ input[name="tab_item"] {
 
 /*タブ切り替えの中身のスタイル*/
 .tab_content {
+  display: none;
   padding: 0;
   margin: 0;
 }
@@ -860,7 +861,7 @@ input[name="tab_item"] {
 #oregon1f:checked ~ #oregon1f,
 #oregonb1f:checked ~ #oregonb1f,
 #skyscraper2f:checked ~ #skyscraper2f,
-#skyscraper1f:checked ~ #skyscraper1f,{
+#skyscraper1f:checked ~ #skyscraper1f{
 display: block;
 }
 
