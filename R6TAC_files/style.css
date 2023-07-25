@@ -839,38 +839,29 @@ input[name="tab_item"] {
 #bank2f:checked ~ #bank2f,
 #bank1f:checked ~ #bank1f,
 #bankb1f:checked ~ #bankb1f,
-
 #border2f:checked ~ #border2f,
 #border1f:checked ~ #border1f,
-
 #chalet2f:checked ~ #chalet2f,
 #chalet1f:checked ~ #chalet1f,
 #chaletb1f:checked ~ #chaletb1f,
-
 #club2f:checked ~ #club2f,
 #club1f:checked ~ #club1f,
 #clubb1f:checked ~ #clubb1f,
-
 #consulate2f:checked ~ #consulate2f,
 #consulate1f:checked ~ #consulate1f,
 #consulateb1f:checked ~ #consulateb1f,
-
 #kafe3f:checked ~ #kafe3f,
 #kafe2f:checked ~ #kafe2f,
 #kafe1f:checked ~ #kafe1f,
-
 #nighthavenlabs2f:checked ~ #nighthavenlabs2f,
 #nighthavenlabs1f:checked ~ #nighthavenlabs1f,
 #nighthavenlabsb1f:checked ~ #nighthavenlabsb1f,
-
 #oregon3f:checked ~ #oregon3f,
 #oregon2f:checked ~ #oregon2f,
 #oregon1f:checked ~ #oregon1f,
 #oregonb1f:checked ~ #oregonb1f,
-
 #skyscraper2f:checked ~ #skyscraper2f,
-#skyscraper1f:checked ~ #skyscraper1f,
- {
+#skyscraper1f:checked ~ #skyscraper1f,{
   display: block;
 }
 
