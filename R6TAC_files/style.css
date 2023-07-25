@@ -862,7 +862,7 @@ input[name="tab_item"] {
 #oregonb1f:checked ~ #oregonb1f,
 #skyscraper2f:checked ~ #skyscraper2f,
 #skyscraper1f:checked ~ #skyscraper1f,{
-  display: block;
+display: block;
 }
 
 /* お絵描きエリアのcss */
