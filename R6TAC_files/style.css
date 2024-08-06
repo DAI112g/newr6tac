@@ -16,7 +16,7 @@ body {
 .defense_slot {
   border: 0.1rem solid white;
   display: inline-block;
-  width: 770px;
+  width: 815px;
   height: 115px;
   position: relative;
   margin-left: 20px;
@@ -24,7 +24,7 @@ body {
 .attack_slot {
   border: 0.1rem solid white;
   display: block;
-  width: 770px;
+  width: 815px;
   height: 115px;
   position: relative;
   margin-top: 20px;
