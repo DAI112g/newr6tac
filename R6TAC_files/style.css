@@ -856,10 +856,9 @@ input[name="tab_item"] {
 #nighthavenlabs2f:checked ~ #nighthavenlabs2f,
 #nighthavenlabs1f:checked ~ #nighthavenlabs1f,
 #nighthavenlabsb1f:checked ~ #nighthavenlabsb1f,
-#oregon3f:checked ~ #oregon3f,
-#oregon2f:checked ~ #oregon2f,
-#oregon1f:checked ~ #oregon1f,
-#oregonb1f:checked ~ #oregonb1f,
+#lair2f:checked ~ #lair2f,
+#lair1f:checked ~ #lair1f,
+#lairb1f:checked ~ #lairb1f,
 #skyscraper2f:checked ~ #skyscraper2f,
 #skyscraper1f:checked ~ #skyscraper1f{
 display: block;
