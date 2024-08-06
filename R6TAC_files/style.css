@@ -1065,6 +1065,10 @@ label {
   top: 15px;
   left: 775px;
 }
+#striker {
+  top: 65px;
+  left: 775px;
+}
 /* 防衛側オペレーターアイコンの位置決め */
 #smoke {
   top: 15px;
@@ -1201,4 +1205,8 @@ label {
 #fenrir {
   top: 65px;
   left: 730px;
+}
+#sentry {
+  top: 15px;
+  left: 775px;
 }
