@@ -1062,6 +1062,10 @@ label {
   top: 65px;
   left: 730px;
 }
+#deimos {
+  top: 15px;
+  left: 775px;
+}
 /* 防衛側オペレーターアイコンの位置決め */
 #smoke {
   top: 15px;
